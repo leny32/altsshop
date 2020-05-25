@@ -43,11 +43,18 @@ responsiveimage {
 	margin-top: -100px;
   z-index: -1;
 }
+
+.navbar {
+  margin-top: -35px;
+}
+
 .nav-link {
-  margin-right: 3rem
+  margin-right: 3rem;
+  font-weight: 300;
 }
 .nav-item.active .nav-link {
   font-weight: bold;
+  font-weight: 600;
 }
 .carousel {
   overflow: hidden;
@@ -165,4 +172,8 @@ responsiveimage {
   .overlay {
     height: 180px;
   }
+}
+
+.feature{
+  border: 3px solid #FFDF00;
 }
