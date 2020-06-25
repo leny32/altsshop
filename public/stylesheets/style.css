@@ -40,12 +40,12 @@ responsiveimage {
 	width: 100%;
 	height: 320px;
 	background: #593196;
-	margin-top: -100px;
+	margin-top: -150px;
   z-index: -1;
 }
 
 .navbar {
-  margin-top: -35px;
+  margin-top: -5px;
 }
 
 .nav-link {
